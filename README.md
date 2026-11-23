@@ -11,4 +11,4 @@ You don't need another app. You're up at six, out on a leak, and keying invoices
 
 `MAKEFUN_OUTPUT_DIR=out python3 main.py`
 
-License: MIT.
+License: [MIT](LICENSE).
