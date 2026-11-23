@@ -1,4 +1,4 @@
-A program that writes one short text for make.fun's bounty `u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c`.
+A Python program that writes one short text for make.fun's bounty `u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c`.
 
 [![make.fun · u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c](https://make.fun/badge/u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c.svg)](https://make.fun/bounty/u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c)
 [![rank](https://make.fun/badge/u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c/AARenor/mf_u_ravendell_the_plumber_s_inbo_1_2259/rank.svg)](https://make.fun/bounty/u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c/leaderboard)
